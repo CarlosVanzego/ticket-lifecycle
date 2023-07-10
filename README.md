@@ -3,8 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
+The lifecycle of a ticket in osTicket, an open-source help desk ticketing system, involves four stages: Intake, Assignment and Communication, Working the Issue, and Resolution. Users create tickets with detailed descriptions and attachments, which are then assigned to support agents who communicate with users to gather information and discuss solutions. Agents troubleshoot the issue, update the ticket with progress notes, and finally provide a resolution, marking the ticket as resolved. osTicket facilitates efficient communication, issue resolution, and user satisfaction throughout the ticket lifecycle.
 
 
 
